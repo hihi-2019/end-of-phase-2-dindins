@@ -1,5 +1,7 @@
 # end-of-phase-2-dindins
 
+EDA is putting on a few drinks but you can BYO also
+
 I'm coming and I'll be hungry!!
 -Cass
 -Sophie
