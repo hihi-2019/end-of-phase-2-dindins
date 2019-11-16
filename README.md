@@ -13,16 +13,18 @@ I'm coming and I'll be hungry!!
 -Fraser
 -Ethan
 -Alice
+-Freya
 
 
 
 These are the ingredients we can't put in the food.
 
 -Peanuts
--Olive oil
+-Olive oil/olives
 -Coconut products
 -Cashew nuts
 -Meat
 -Dairy
 -Sugar
-
+-Eggplant
+-Animal products
