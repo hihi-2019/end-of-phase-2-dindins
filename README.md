@@ -14,6 +14,7 @@ I'm coming and I'll be hungry!!
 -Ethan
 -Alice
 -Freya
+-Cherise
 
 
 
